@@ -8,6 +8,27 @@
 
     <title>@yield('title', 'Rizki Putra Ramadhan')</title>
     <link rel="shortcut icon" href="{{ asset('assets/img/logo_2.png') }}" type="image/x-icon">
+    <!-- HTML Meta Tags -->
+    <title>Portofolio Rizki Putra Ramadhan</title>
+    <meta name="description"
+        content="Explore the portfolio of Rizki Putra Ramadhan – a developer passionate about crafting impactful digital solutions.">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://rizki-putra-ramadhan.laravel.cloud">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Portofolio Rizki Putra Ramadhan">
+    <meta property="og:description"
+        content="Explore the portfolio of Rizki Putra Ramadhan – a developer passionate about crafting impactful digital solutions.">
+    <meta property="og:image" content="{{ asset('assets/img/porto.png') }}">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="rizki-putra-ramadhan.laravel.cloud">
+    <meta property="twitter:url" content="https://rizki-putra-ramadhan.laravel.cloud">
+    <meta name="twitter:title" content="Portofolio Rizki Putra Ramadhan">
+    <meta name="twitter:description"
+        content="Explore the portfolio of Rizki Putra Ramadhan – a developer passionate about crafting impactful digital solutions.">
+    <meta name="twitter:image" content="{{ asset('assets/img/porto.png') }}">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
