@@ -1,3 +1,17 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+@import "tailwindcss";
+@source "../views";
+
+:root {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 14px;
+}
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
+}

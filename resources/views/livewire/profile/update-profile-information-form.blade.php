@@ -85,7 +85,6 @@ new class extends Component
             <x-text-input wire:model="email" id="email" name="email" type="email" class="mt-1 block w-full" required autocomplete="username" />
             <x-input-error class="mt-2" :messages="$errors->get('email')" />
 
-            @if (auth()->user() instanceof \Illuminate\Contracts\Auth\MustVerifyEmail && ! auth()->user()->hasVerifiedEmail())
                 <div>
                     <p class="text-sm mt-2 text-gray-800">
                         {{ __('Your email address is unverified.') }}
@@ -101,7 +100,6 @@ new class extends Component
                         </p>
                     @endif
                 </div>
-            @endif
         </div>
 
         <div class="flex items-center gap-4">
