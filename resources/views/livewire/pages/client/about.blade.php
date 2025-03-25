@@ -19,12 +19,12 @@
                                 'data' => 'Tentang Saya',
                             ])
                             <p class="text-gray-500 text-base font-normal leading-relaxed lg:text-start ">
-                                Saya adalah Rizki Putra Ramadhan, seorang web developer yang berpengalaman dalam
-                                membangun solusi digital di bidang teknologi. Sejak tahun 2020, saya telah mengembangkan
-                                keahlian dalam JavaScript, PHP, Go, serta framework seperti React JS, Laravel, Tailwind
-                                CSS dan masih banyak lagi. Saya telah dipercaya oleh lebih dari 30 klien untuk
-                                mengerjakan proyek-proyek web,
-                                mulai dari kebutuhan skala menengah hingga sistem yang kompleks.
+                                Saya Rizki Putra Ramadhan, seorang Web Developer dengan pengalaman dalam merancang dan
+                                membangun berbagai solusi digital di bidang teknologi. Sejak 2020, saya telah mengasah
+                                keahlian dalam bahasa pemrograman seperti JavaScript, PHP, dan Go, serta menguasai
+                                berbagai framework modern seperti React JS, Laravel, dan Tailwind CSS. Hingga saat ini,
+                                saya telah dipercaya oleh lebih dari 30 klien untuk menyelesaikan berbagai proyek web,
+                                mulai dari aplikasi skala menengah hingga pengembangan sistem yang kompleks.
                             </p>
                         </div>
                         <div class="w-full lg:justify-start justify-center sm:gap-10 gap-5 inline-flex flex-col">
