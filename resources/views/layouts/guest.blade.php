@@ -12,7 +12,7 @@
     <title>Portofolio Rizki Putra Ramadhan</title>
     <meta name="description"
         content="Explore the portfolio of Rizki Putra Ramadhan – a developer passionate about crafting impactful digital solutions.">
-    <meta name="google-site-verification" content="Yl7oHusVyqGI9iHouZgnIAsnLrdIXfYdvpOZgvaOAy8" />
+    <meta name="google-site-verification" content="78U_-EY1nf3jxsqaZicd9ARkbAX9M1BgyewmdupnGsA" />
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://rizki-putra-ramadhan.laravel.cloud">
     <meta property="og:type" content="website">
