@@ -89,8 +89,7 @@
                                             </svg>
                                             Alamat
                                         </td>
-                                        <td class="w-2/3 overflow-x-auto whitespace-nowrap scrollbar-hide">: Jl. Tipar,
-                                            Kec. Rawalo, Kabupaten Banyumas, Jawa Tengah</td>
+                                        <td class="w-2/3 overflow-x-auto whitespace-nowrap scrollbar-hide">: Kabupaten Banyumas, Jawa Tengah</td>
                                     </tr>
 
                                 </tbody>
